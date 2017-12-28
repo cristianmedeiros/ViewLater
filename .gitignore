@@ -1,0 +1,5 @@
+#IGNORE PACKAGE & PEM FILES IN ROOT FOLDER#
+/*.crx
+/*.pem
+/*.zip
+node_modules
